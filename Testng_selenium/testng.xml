@@ -1,7 +1,0 @@
-<suite name="ParallelSuite" parallel="methods" thread-count="3">
-    <test name="ParallelTestExecution">
-        <classes>
-            <class name="TestNG_basic.wait"/>
-        </classes>
-    </test>
-</suite>
